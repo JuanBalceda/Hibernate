@@ -1,2 +1,2 @@
 # Hibernate
-Java test application for hibernate
+Java application for Platzi JavaEE Course
